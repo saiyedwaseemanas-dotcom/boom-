@@ -1,0 +1,6 @@
+{
+  "name": "Blossom Spa Ahmedabad",
+  "description": "Ahmedabad's premier luxury wellness spa in Thaltej featuring Turkish Hammam, Jacuzzi suites, Swedish massage, comprehensive spa management dashboard, and AI WhatsApp appointment scheduling & customer care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
